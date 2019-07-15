@@ -142,7 +142,7 @@
     </dependencies>
 
     <build>
-        <!--设置项目名字12312-->
+        <!--设置项目名字-->
         <finalName>fc-hp</finalName>
         <plugins>
             <plugin>
